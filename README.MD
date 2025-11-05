@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝗣𝗨𝗥𝗩𝗜 𝗖𝗛𝗔𝗧 」──
+    ──「 𝐊𝐀𝐍𝐇𝐀'𝐒 𝐖𝐎𝐑𝐋𝐃」──
 </h2>
 <p align="center">
   <img src="https://graph.org/file/437091ea5c8fb26a8abf8.jpg">
